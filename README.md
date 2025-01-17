@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Justin!  
 
-🚀 **Economics Graduate | Data Analytics **  
-
+🚀 **Economics Graduate | Data Analytics**  
+ 
 Welcome to my GitHub! I love exploring data-driven insights, building analytical tools, and applying economic principles to real-world problems.  
 
 ## 🔍 What I Do  
