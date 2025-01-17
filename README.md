@@ -2,7 +2,7 @@
 
 🚀 **Economics Graduate | Data Analytics | Making Spreadsheets Fun (Sort of) 📈😅**  
  
-Welcome to my GitHub! I love exploring data-driven insights, building analytical tools, and applying economic principles to real-world problems.  
+Welcome to my GitHub! I love exploring datasets, building analytical tools, and applying economic principles to real-world problems.  
 
 ## 🔍 What I Do  
 - 📊 Data Analysis & Visualization (Excel, R, SQL)  
