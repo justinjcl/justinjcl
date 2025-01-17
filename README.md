@@ -20,7 +20,6 @@ Welcome to my GitHub! I love exploring data-driven insights, building analytical
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justincornejoleon/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](justincleon@outlook.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:justincleon@outlook.com)
 
 💡 Always open to collaboration & new projects!  
