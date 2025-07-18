@@ -5,7 +5,7 @@
 Welcome to my GitHub! I love exploring datasets, building analytical tools, and applying economic principles to real-world problems.  
 
 ## 🔍 What I Do  
-- 📊 Data Analysis & Visualization (Excel, R, SQL, Power BI)  
+- 📊 Data Analysis & Visualization (Excel, R, SQL, Tableau)  
 - 📉 Economics & Finance Modeling  
 
 ## 🛠️ Technologies & Tools  
